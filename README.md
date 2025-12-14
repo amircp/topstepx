@@ -1,6 +1,6 @@
 # TopStepX Python Client
 
-📈 Unofficial Python client for [TopStepX](https://topstepx.com) API - Place orders, manage positions, and track trades with automatic token management.
+📈 Unofficial Python client for [Project X](https://projectx.com) for [TopStepX](https://topstepx.com) API - Place orders, manage positions, and track trades with automatic token management.
 
 ## Installation
 
