@@ -5,7 +5,7 @@
 ## Installation
 
 ```bash
-pip install topstepx
+git clone https://github.com/amircp/topstepx.git
 ```
 
 ## Quick Start
